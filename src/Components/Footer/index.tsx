@@ -1,7 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import FooterProps from "./propInterface";
 
-const Footer = (props) => {
+const Footer = (props: FooterProps) => {
     
     return (
         <div>

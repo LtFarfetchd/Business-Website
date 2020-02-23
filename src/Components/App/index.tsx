@@ -20,7 +20,7 @@ const App = () => {
           Learn React
         </a>
       </header>
-      <Footer message={() => {}}>
+      <Footer message="hello there">
         <div><p>This is test</p></div>
       </Footer>
     </div>
