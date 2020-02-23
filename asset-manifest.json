@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Business-Website/static/js/main.d6d861d0.chunk.js",
-    "main.js.map": "/Business-Website/static/js/main.d6d861d0.chunk.js.map",
+    "main.js": "/Business-Website/static/js/main.5880f4af.chunk.js",
+    "main.js.map": "/Business-Website/static/js/main.5880f4af.chunk.js.map",
     "runtime-main.js": "/Business-Website/static/js/runtime-main.39e110dc.js",
     "runtime-main.js.map": "/Business-Website/static/js/runtime-main.39e110dc.js.map",
     "static/js/2.620d7130.chunk.js": "/Business-Website/static/js/2.620d7130.chunk.js",
     "static/js/2.620d7130.chunk.js.map": "/Business-Website/static/js/2.620d7130.chunk.js.map",
     "index.html": "/Business-Website/index.html",
-    "precache-manifest.ddc64e512684e7f0547a834093d91b7d.js": "/Business-Website/precache-manifest.ddc64e512684e7f0547a834093d91b7d.js",
+    "precache-manifest.a5501a58ef73870e619fe84935440a83.js": "/Business-Website/precache-manifest.a5501a58ef73870e619fe84935440a83.js",
     "service-worker.js": "/Business-Website/service-worker.js",
     "static/js/2.620d7130.chunk.js.LICENSE.txt": "/Business-Website/static/js/2.620d7130.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.39e110dc.js",
     "static/js/2.620d7130.chunk.js",
-    "static/js/main.d6d861d0.chunk.js"
+    "static/js/main.5880f4af.chunk.js"
   ]
 }
