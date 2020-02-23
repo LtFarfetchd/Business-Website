@@ -12,8 +12,4 @@ const Footer = (props: FooterProps) => {
     );
 };
 
-Footer.propTypes = {
-    message: PropTypes.string
-}
-
 export default Footer;

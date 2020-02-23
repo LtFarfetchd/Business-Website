@@ -5,4 +5,4 @@ interface FooterProps {
     children: ReactNode,
 }
 
-export default FooterProps
+export default FooterProps;
